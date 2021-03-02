@@ -10,4 +10,3 @@ lassie = dog.new
 lassie
 
 end
-
