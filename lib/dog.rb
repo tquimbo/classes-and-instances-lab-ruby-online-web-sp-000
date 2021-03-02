@@ -6,7 +6,7 @@ lassie = dog.new
 
 end
 
-class Person 
+class Person
 
 adele_goldberg = Person.new
 alan_kay = Person.new
